@@ -1,0 +1,1 @@
+const australiaCentre = { lat: -24.412774, lng: 133.429948 };
